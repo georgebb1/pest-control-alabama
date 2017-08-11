@@ -1,5 +1,5 @@
 I am doing a website for an experienced pest control company in Alabama that can help people get rid of the pest contamination issues. Their team of certified professionals is able to help you right away. 
 
-The [site]: https://pestcontrolalabama.com team can deal with cockroaches, ants, mice, termites... there is a solution for every problem. There is a way to get an estimate on their website and then they can take care of the problem. Just wanted to let you know their bussiness is solid and they're very reliable.
+The [site](http://pestcontrolalabama.com/) team can deal with cockroaches, ants, mice, termites... there is a solution for every problem. There is a way to get an estimate on their website and then they can take care of the problem. Just wanted to let you know their bussiness is solid and they're very reliable.
 
 http://pestcontrolpendleton.com/wp-content/uploads/2011/01/ant-slash.png
